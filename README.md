@@ -8,7 +8,7 @@ Ver el deploy [BiciCiudad]()
 
 ### Preview.
 
-![](images/screenshot.png)
+![](screenshot.png)
 
 Made with ✨
 
